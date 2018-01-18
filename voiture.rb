@@ -1,6 +1,6 @@
 class Voiture
 
-def claxonner
+def klaxonner
   puts "pouet"
 end
 

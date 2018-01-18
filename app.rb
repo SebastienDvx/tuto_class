@@ -13,4 +13,4 @@ hello("Hello World")
 
 
 voiture_seb = Voiture.new
-voiture_seb.claxonner
+voiture_seb.klaxonner
