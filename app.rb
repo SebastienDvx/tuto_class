@@ -13,3 +13,4 @@ hello("Hello World")
 voiture_seb = Voiture.new("rouge")
 voiture_seb.klaxonner
 voiture_seb.get_couleur
+voiture_seb.tourne("droite")

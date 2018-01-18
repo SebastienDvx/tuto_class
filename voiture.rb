@@ -13,4 +13,8 @@ def get_couleur
   puts "#{@couleur}"
 end
 
+def tourne(dir)
+  puts "Je tourne à #{dir}"
+end
+
 end
